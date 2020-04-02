@@ -3,6 +3,3 @@ This is readmezz.
 
 ## Download the code and play with it.
 
-```bash
-from random import randint
-```
